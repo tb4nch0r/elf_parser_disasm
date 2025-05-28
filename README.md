@@ -1,8 +1,6 @@
 # ELF Disassembler 
 | 2025 Stealien On-site Training (Reverse Engineering) Assignment
 
-## Overview
-This project is a simple tool that parses an ELF file, extracts the `.text` section, and disassembles its machine code into assembly instructions.
 
 ## Features
 - Parse ELF headers and section tables
