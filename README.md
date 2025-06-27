@@ -1,4 +1,4 @@
-# ELF Disassembler 
+# ELF Binary Parser
 | 2025 Stealien On-site Training (Reverse Engineering) Assignment
 
 
